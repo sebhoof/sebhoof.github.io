@@ -1,6 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"JCAP":
+  url: https://iopscience.iop.org/journal/1475-7516
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"JHEP":
+  url: https://www.springer.com/journal/13130
+  color: "#00369f"
+
+"PhysRevD":
+  url: https://journals.aps.org/prd/
+  color: "#00369f"
+
+"PRL":
+  url: https://journals.aps.org/prl/
+  color: "#00369f"
