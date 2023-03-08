@@ -1,0 +1,30 @@
+- title: Experience
+  type: time_table
+  contents:
+    - title: Marie Skłodowska-Curie Actions Postdoctoral Fellow
+      institution: Università degli Studi di Padova, Italy
+      year: current
+      description:
+    - title: Postdoctoral Researcher
+      institution: KIT, Karlsruhe, Germany
+      year: 2022
+    - title: Postdoctoral Researcher
+      institution: Georg-August-Universität Göttingen, Germany
+      year: 2019-22
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD (Physics)
+      institution: Imperial College London, UK
+      year: 2015-19
+    - title: M.Sc. (Physics)
+      institution: Ruprecht-Karls-Universität Heidelberg, Germany
+      year: 2013-15
+    - title: B.Sc. (Physics)
+      institution: Ruprecht-Karls-Universität Heidelberg, Germany
+      year: 2009-13
+    - title: Erasmus Exchange Programme
+      institution: UCL, London, UK
+      year: 2011-12
+
