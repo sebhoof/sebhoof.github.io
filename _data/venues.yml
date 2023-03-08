@@ -1,15 +1,21 @@
+"JAP":
+  url: https://aip.scitation.org/journal/jap/
+#  color: "#00369f"
+
 "JCAP":
   url: https://iopscience.iop.org/journal/1475-7516
-  color: "#00369f"
 
 "JHEP":
   url: https://www.springer.com/journal/13130
-  color: "#00369f"
+
+"OJA":
+  url: http://doi.org/10.21105/astro
 
 "PRD":
   url: https://journals.aps.org/prd/
-  color: "#00369f"
 
 "PRL":
   url: https://journals.aps.org/prl/
-  color: "#00369f"
+
+"RPP":
+  url: https://www.doi.org/10.1088/issn.0034-4885
