@@ -2,17 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>.
+subtitle: MSCA Postdoctoral Fellow at the <a href='http://www.dfa.unipd.it/en/'>University of Padua</a>.
 
 profile:
-  align: right
+  align: left
   image:
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Dipartimento di Fisica e Astronomia &ldquo;Galileo Galilei&rdquo;</p>
-    <p>Via F. Marzolo 8</p>
-    <p>35121 Padova (PD)</p>
-    <p>Italy</p>
+  address: #>
+  #  <p>Dipartimento di Fisica e Astronomia &ldquo;Galileo Galilei&rdquo;</p>
+  #  <p>Via F. Marzolo 8</p>
+  #  <p>35121 Padova (PD)</p>
+  #  <p>Italy</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
