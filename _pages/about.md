@@ -26,6 +26,6 @@ My favourite hypothetical particle is called &ldquo;axion,&rdquo; which is what 
 
 The most powerful way to learn about the properties of axions and other particles is via global fits, which is the idea of using all available information in a consistent statistical analysis.
 Global fits are the common interest of the [GAMBIT](https://gambit.hepforge.org/) community, of which I am a member.
-I am an opportunistic applied statistician, in the sense that I like to use both Bayesian and frequentist/classical statistics to learn as much as possible from the data have now and in the future.
+I am an opportunistic applied statistician, in the sense that I like to use both Bayesian and frequentist/classical statistics to learn as much as possible from current and future data.
 
 I am currently based in Padua, Italy, where my Marie-Sk&#322;odowska-Curie fellowship &ldquo;AxiTools&rdquo; is funded by the European Union.
