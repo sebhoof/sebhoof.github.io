@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSCA Postdoctoral Fellow at the <a href='http://www.dfa.unipd.it/en/'>University of Padua</a>.
+subtitle: MSCA Postdoctoral Fellow at the <a href='http://www.dfa.unipd.it/en/'>University of Padua</a>
 
 profile:
   align: left
@@ -19,13 +19,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Why, hello there!
-I am a particle phenomenologist, meaning that I study how particles manifest themselves in the world around us.
-This is mostly to figure out what dark matter is, but I can generally be excited about any new, exotic particles beyond the current standard model of particle physics.
-My favourite hypothetical particle is called &ldquo;axion,&rdquo; which is what most of my research and [publications](/publications/) are about.
+Hello there and welcome to my page! I&#39;m an astroparticle physicist on a mission to unravel at least some mysteries of the Universe.
 
-The most powerful way to learn about the properties of axions and other particles is via global fits, which is the idea of using all available information in a consistent statistical analysis.
-Global fits are the common interest of the [GAMBIT](https://gambit.hepforge.org/) community, of which I am a member.
-I am an opportunistic applied statistician, in the sense that I like to use both Bayesian and frequentist/classical statistics to learn as much as possible from current and future data.
+My research centres around new particles, such as axions, which may explain the existence of dark matter and solve other mysteries of modern physics.
+As a particle phenomenologist, I enjoy exploring the ways in which these particles would manifest themselves in the world around us.
+While axions are a particular focus of mine, I&#39;m always excited about discovering new and exotic particles beyond the current standard model of particle physics.
+Most of my research and [publications](/publications) involve these topics.
 
-I am currently based in Padua, Italy, where my Marie-Sk&#322;odowska-Curie fellowship &ldquo;AxiTools&rdquo; is funded by the European Union.
+To gain insight into the properties of these particles, I use statistical analysis techniques such as global fits.
+These allow us to combine all available information to learn as much as possible about the properties of fundamental particles.
+As an applied statistician, I use both Bayesian and frequentist/classical statistics to gain insights from current and future data. I&#39;m also a member of the [GAMBIT](https://gambit.hepforge.org/) global fitting community.
+
+I&#39;m currently based at the [University of Padua](https://www.unipd.it/en/msca-individual-postdoctoral-fellowships), Italy, where I&#39;m working on my Marie-Sk&#322;odowska-Curie fellowship project &#34;AxiTools,&#34; which is funded by the European Union. This project aims to learn more about the properties of axions and other feebly interacting particles, improving the availability of open-source software for this field in the process.
+
+Thank you for stopping by, and please don&#39;t hesitate to contact me if you have any questions or are interested in a collaboration.
