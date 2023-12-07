@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSCA Postdoctoral Fellow at the <a href='http://www.dfa.unipd.it/en/'>University of Padua</a>
+subtitle: MSCA Postdoctoral Fellow at the <a href='https://www.unipd.it/en/msca-individual-postdoctoral-fellowships'>University of Padua</a>, funded by the European Union
 
 profile:
   align: left
@@ -30,6 +30,8 @@ To gain insight into the properties of these particles, I use statistical analys
 These allow us to combine all available information to learn as much as possible about the properties of fundamental particles.
 As an applied statistician, I use both Bayesian and frequentist/classical statistics to gain insights from current and future data. I&#39;m also a member of the [GAMBIT](https://gambit.hepforge.org/) global fitting community.
 
-I&#39;m currently based at the [University of Padua](https://www.unipd.it/en/msca-individual-postdoctoral-fellowships), Italy, where I&#39;m working on my Marie-Sk&#322;odowska-Curie fellowship project &#34;AxiTools,&#34; which is funded by the European Union. This project aims to learn more about the properties of axions and other feebly interacting particles, improving the availability of open-source software for this field in the process.
+Currently, I&#39;m based at the University of Padua in Italy, working on my Marie-Sk&#322;odowska-Curie fellowship project &#34;AxiTools.&#34;
+Through this project, I seek to gain new insights into the properties of axions and other feebly interacting new particles.
+Another important aim of the project is to improve the availability of open-source software for this field.
 
 Thank you for stopping by, and please don&#39;t hesitate to contact me if you have any questions or are interested in a collaboration.
