@@ -3,8 +3,8 @@ layout: post
 title: New preprint on the arXiv 🎉
 date: 2023-05-31
 description: Axions as solar thermometers
-tags: preprint, results
-categories: publications
+tags: preprint, result
+categories: publication
 ---
 
 One of the main ways to document research results is in the form of articles in research journals.
