@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New preprint on the arXiv!
+title: New preprint on the arXiv 🎉
 date: 2023-05-31
 description: Axions as solar thermometers
 tags: preprint, results
