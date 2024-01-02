@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
-description: Here are some of the repos to which I have contributed.
+title: Software
+description: Here are some of the software repositories to which I have contributed.
 nav: true
 nav_order: 3
 ---
