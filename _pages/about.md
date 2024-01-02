@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSCA Postdoctoral Fellow at the <a href='https://www.unipd.it/en/msca-individual-postdoctoral-fellowships'>University of Padua</a>, funded by the European Union
+subtitle: MSCA Postdoctoral Fellow at the <a href='https://www.unipd.it/en/msca-individual-postdoctoral-fellowships'>University of Padua</a>, funded by the European Union 🇪🇺
 
 profile:
   align: left
