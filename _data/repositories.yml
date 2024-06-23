@@ -2,6 +2,7 @@ github_users:
   - sebhoof
 
 github_repos:
+  - sebhoof/bhsr
   - sebhoof/bibcom
   - sebhoof/SolarAxionFlux
   - sebhoof/snax
