@@ -2,7 +2,7 @@
 layout: post
 title: New preprint on the arXiv 🎉
 date: 2024-07-05
-description: Axions as solar thermometers
+description: The future of axion lab experiments
 tags: preprint, result
 categories: publication
 ---
