@@ -2,7 +2,7 @@
 layout: post
 title: Language Certificate Awarded 🎉
 date: 2024-09-24
-description: "AxiTools" now speaks Italian at C1 level! 
+description: AxiTools now speaks Italian at C1 level
 tags: award
 categories: award
 ---
