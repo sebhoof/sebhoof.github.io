@@ -8,11 +8,7 @@ profile:
   align: left
   image:
   image_circular: false # crops the image to make it circular
-  address: #>
-  #  <p>Dipartimento di Fisica e Astronomia &ldquo;Galileo Galilei&rdquo;</p>
-  #  <p>Via F. Marzolo 8</p>
-  #  <p>35121 Padova (PD)</p>
-  #  <p>Italy</p>
+  address:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,7 +24,7 @@ Most of my research and [publications](/publications) involve these topics.
 
 To gain insight into the properties of these particles, I use statistical analysis techniques such as global fits.
 These allow us to combine all available information to learn as much as possible about the properties of fundamental particles.
-As an applied statistician, I use both Bayesian and frequentist/classical statistics to gain insights from current and future data. I&#39;m also a member of the [GAMBIT](https://gambit.hepforge.org/) global fitting community.
+As an applied statistician, I use both Bayesian and frequentist/classical statistics to gain insights from current and future data. I&#39;m also a member of the [GAMBIT](https://gambitbsm.org/) global fitting community.
 
 Currently, I&#39;m based at the University of Padua in Italy, working on my Marie-Sk&#322;odowska-Curie fellowship project &#34;AxiTools.&#34;
 Through this project, I seek to gain new insights into the properties of axions and other feebly interacting new particles.
