@@ -7,4 +7,4 @@ tags: article, publication, result
 categories: publications
 ---
 
-Today, [our recent preprint](preprint-hyperlsw) got accepted for publication in the [Physical Review D](https://doi.org/10.1103/PhysRevD.111.015003)!
+Today, [our recent preprint](https://sebhoof.github.io/blog/2024/preprint-hyperlsw) got accepted for publication in the [Physical Review D](https://doi.org/10.1103/PhysRevD.111.015003)!
